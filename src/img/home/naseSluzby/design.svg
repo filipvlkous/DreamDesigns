@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="91.341" height="106.39" viewBox="0 0 91.341 106.39">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.9" x2="0.1" y2="1.039" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0c9"/>
+      <stop offset="1" stop-color="#3ee2fe"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0.134" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1bd6c4"/>
+      <stop offset="1" stop-color="#2fdde6"/>
+    </linearGradient>
+  </defs>
+  <g id="Service" transform="translate(0 -0.5)">
+    <g id="DL-Service-Copy" transform="translate(-748 -1296)">
+      <g id="Services-cards" transform="translate(142.5 1254.5)">
+        <g id="Group-12" transform="translate(583.5)">
+          <g id="icon_ico-design" data-name="icon/ico-design" transform="translate(22 42)">
+            <path id="Combined-Shape" d="M0,10.92A10.965,10.965,0,0,1,11.009,0H38.153C69.609,0,91.341,22.019,91.341,50.745c0,29.018-21.733,51.328-53.188,51.328H11.009A10.965,10.965,0,0,1,0,91.154Z" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+            <path id="Fill-5" d="M64.2,25.941a2.83,2.83,0,0,1,2.468,4.221h0l-4.356,7.7a4.745,4.745,0,0,0,.069,4.792h0l10.55,17.482a4.582,4.582,0,0,1,.22,4.329h0L56.318,100.038A9.371,9.371,0,0,1,39.368,100h0L22.731,64.439a4.584,4.584,0,0,1,.211-4.28h0L33.28,42.726a4.746,4.746,0,0,0-.006-4.857h0l-4.566-7.65a2.8,2.8,0,0,1-.4-1.417,2.83,2.83,0,0,1,2.838-2.86H64.2Z" fill="#fff" stroke="#aba8a8" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill-rule="evenodd"/>
+            <rect id="Rectangle" width="22.183" height="1.957" rx="0.979" transform="translate(31.97 39.338)" fill="#20d7cc"/>
+            <rect id="Rectangle-2" data-name="Rectangle" width="1.957" height="40.451" transform="translate(46.976 64.783)" fill="url(#linear-gradient-2)"/>
+            <path id="Stroke-7" d="M53.824,64.33a6.081,6.081,0,1,1-6.081-6.07A6.075,6.075,0,0,1,53.824,64.33Z" fill="#1bd6c4" fill-rule="evenodd"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

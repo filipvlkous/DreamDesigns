@@ -1,0 +1,25 @@
+  
+<?xml version="1.0" encoding="utf-8"?>
+  <svg width="73" height="49" viewBox="0 0 103 59">
+        <path
+          id="Path_1"
+          data-name="Path 1"
+          d="M5.117,0h7.322A24.563,24.563,0,0,1,37,24.563,23.539,23.539,0,0,1,13.462,48.1H5.117A5.117,5.117,0,0,1,0,42.985V5.117A5.117,5.117,0,0,1,5.117,0Z"
+          fill="#eef1f4"
+        />
+        <text
+          id="ream_esign"
+          data-name="reamesign"
+          transform="translate(103 29)"
+          fill="#eef1f4"
+          fontSize="20"
+          fontWeight="600"
+        >
+          <tspan x="-62.869" y="-1">
+            ream
+          </tspan>
+          <tspan x="-68.931" y="18">
+            esign
+          </tspan>
+        </text>
+      </svg>

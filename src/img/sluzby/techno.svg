@@ -1,0 +1,722 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="194.007" height="194.007" viewBox="0 0 194.007 194.007">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="0.999" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3e63fe"/>
+      <stop offset="1" stop-color="#3ee2fe"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.997" y1="0.539" x2="-0.001" y2="0.539" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cbcbcb"/>
+      <stop offset="0.253" stop-color="#e0e0e0"/>
+      <stop offset="0.781" stop-color="#e0e0e0"/>
+      <stop offset="1" stop-color="#cbcbcb"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.501" y1="0.498" x2="0.501" y2="0.999" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fafbfc"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.495" y1="0.028" x2="0.495" y2="1.011" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f3f4f6"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.501" y1="0.009" x2="0.501" y2="1.009" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="0.501" y1="0.009" x2="0.501" y2="1.009" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0c9"/>
+      <stop offset="1" stop-color="#3ee2fe"/>
+    </linearGradient>
+  </defs>
+  <g id="Dev-icon" transform="translate(0 0)">
+    <path id="Oval-17_5_" d="M97.1,194.107a97,97,0,1,1,97-97A96.915,96.915,0,0,1,97.1,194.107Z" transform="translate(-0.1 -0.1)" fill="url(#linear-gradient)"/>
+    <g id="Group-15" transform="translate(24.445 43.846)">
+      <g id="img-full-stack-dev">
+        <g id="Display" transform="translate(17.978)">
+          <g id="Layer">
+            <path id="path-4_2_" d="M142.837,106.817V36.975A2.927,2.927,0,0,0,139.862,34H35.875A2.927,2.927,0,0,0,32.9,36.975h0v74.757H142.966v-4.915Z" transform="translate(-32.9 -34)"/>
+          </g>
+          <g id="Layer-2" data-name="Layer">
+            <path id="path-4_1_" d="M142.837,106.817V36.975A2.927,2.927,0,0,0,139.862,34H35.875A2.927,2.927,0,0,0,32.9,36.975h0v74.757H142.966v-4.915Z" transform="translate(-32.9 -34)" fill="red"/>
+          </g>
+          <path id="Layer-3" data-name="Layer" d="M33.1,111.356H142.39V36.987A2.594,2.594,0,0,0,139.8,34.4H35.816a2.594,2.594,0,0,0-2.587,2.587v74.369Z" transform="translate(-32.841 -33.883)" fill="none" stroke="#707070" stroke-width="0.6"/>
+        </g>
+        <g id="Base-_x2B_-Shadow" transform="translate(0.12 75.663)">
+          <g id="Layer-4" data-name="Layer">
+            <path id="path-6_7_" d="M36.821,92.5H146.629a2.142,2.142,0,0,1,1.552.647c.388.388,14.486,15.391,15.391,16.555.905,1.293-.129,2.587-1.552,2.587-47.338,0-94.417-.129-141.754-.129-1.164,0-1.681-1.293-.517-2.587s14.356-15.65,14.874-16.167A3.12,3.12,0,0,1,36.821,92.5Z" transform="translate(-19.093 -92.5)"/>
+          </g>
+          <g id="Layer-5" data-name="Layer">
+            <path id="path-6_1_" d="M36.821,92.5H146.629a2.142,2.142,0,0,1,1.552.647c.388.388,14.486,15.391,15.391,16.555.905,1.293-.129,2.587-1.552,2.587-47.338,0-94.417-.129-141.754-.129-1.164,0-1.681-1.293-.517-2.587s14.356-15.65,14.874-16.167A3.12,3.12,0,0,1,36.821,92.5Z" transform="translate(-19.093 -92.5)" fill="#fcfcfc"/>
+          </g>
+        </g>
+        <path id="slice" d="M19,107.476a16.937,16.937,0,0,0,3.751.517c1.811,0,135.675.129,138.262.129s2.716-1.423,2.716-1.423a2.793,2.793,0,0,1-2.716,2.328c-2.069,0-135.417-.129-138.262-.129C19.776,108.9,19,107.476,19,107.476Z" transform="translate(-19 -12.671)" fill="#e0e0e0"/>
+        <path id="handle" d="M63.5,107.7H97.775v1.293H63.5Z" transform="translate(-5.945 -12.378)" fill="url(#linear-gradient-2)"/>
+        <g id="trackpad" transform="translate(42.94 86.656)">
+          <g id="Layer-6" data-name="Layer">
+            <path id="path-9_7_" d="M55.3,101h53.417l2.845,8.148H52.2Z" transform="translate(-52.2 -101)" fill="#f2f2f2"/>
+          </g>
+          <g id="Layer-7" data-name="Layer">
+            <path id="path-9_20_" d="M55.3,101h53.417l2.845,8.148H52.2Z" transform="translate(-52.2 -101)"/>
+          </g>
+        </g>
+        <g id="keyboard-base" transform="translate(7.372 76.956)">
+          <g id="Layer-8" data-name="Layer">
+            <path id="path-11_6_" d="M33.624,93.5H146.666l8.795,9.442H24.7Z" transform="translate(-24.7 -93.5)" fill="#f5f5f5"/>
+          </g>
+          <g id="Layer-9" data-name="Layer">
+            <path id="path-11_7_" d="M33.624,93.5H146.666l8.795,9.442H24.7Z" transform="translate(-24.7 -93.5)"/>
+          </g>
+        </g>
+        <g id="Rectangle-8" transform="translate(46.174 84.458)">
+          <g id="Layer-10" data-name="Layer">
+            <path id="path-13_12_" d="M55.347,99.3h42.94l.517,1.811H54.7Z" transform="translate(-54.7 -99.3)"/>
+          </g>
+          <g id="Layer-11" data-name="Layer">
+            <path id="path-13_1_" d="M55.347,99.3h42.94l.517,1.811H54.7Z" transform="translate(-54.7 -99.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-4" transform="translate(90.536 84.458)">
+          <g id="Layer-12" data-name="Layer">
+            <path id="path-15_12_" d="M89,99.3H99.218l.647,1.811H89.388Z" transform="translate(-89 -99.3)"/>
+          </g>
+          <g id="Layer-13" data-name="Layer">
+            <path id="path-15_1_" d="M89,99.3H99.218l.647,1.811H89.388Z" transform="translate(-89 -99.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-5" transform="translate(101.53 84.458)">
+          <g id="Layer-14" data-name="Layer">
+            <path id="path-17_12_" d="M97.5,99.3h8.019l.776,1.811H98.147Z" transform="translate(-97.5 -99.3)"/>
+          </g>
+          <g id="Layer-15" data-name="Layer">
+            <path id="path-17_1_" d="M97.5,99.3h8.019l.776,1.811H98.147Z" transform="translate(-97.5 -99.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-6" transform="translate(110.196 84.458)">
+          <g id="Layer-16" data-name="Layer">
+            <path id="path-19_12_" d="M104.2,99.3h8.019l1.164,1.811h-8.278Z" transform="translate(-104.2 -99.3)"/>
+          </g>
+          <g id="Layer-17" data-name="Layer">
+            <path id="path-19_1_" d="M104.2,99.3h8.019l1.164,1.811h-8.278Z" transform="translate(-104.2 -99.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-7" transform="translate(118.861 84.458)">
+          <g id="Layer-18" data-name="Layer">
+            <path id="path-21_12_" d="M110.9,99.3h8.148l1.293,1.811h-8.278Z" transform="translate(-110.9 -99.3)"/>
+          </g>
+          <g id="Layer-19" data-name="Layer">
+            <path id="path-21_1_" d="M110.9,99.3h8.148l1.293,1.811h-8.278Z" transform="translate(-110.9 -99.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-8" transform="translate(127.527 84.458)">
+          <g id="Layer-20" data-name="Layer">
+            <path id="path-23_12_" d="M117.6,99.3h8.019l1.681,1.811h-8.278Z" transform="translate(-117.6 -99.3)"/>
+          </g>
+          <g id="Layer-21" data-name="Layer">
+            <path id="path-23_1_" d="M117.6,99.3h8.019l1.681,1.811h-8.278Z" transform="translate(-117.6 -99.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-9" transform="translate(115.499 82.776)">
+          <g id="Layer-22" data-name="Layer">
+            <path id="path-25_12_" d="M108.3,98h18.625l1.423,1.552H109.335Z" transform="translate(-108.3 -98)"/>
+          </g>
+          <g id="Layer-23" data-name="Layer">
+            <path id="path-25_1_" d="M108.3,98h18.625l1.423,1.552H109.335Z" transform="translate(-108.3 -98)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-10" transform="translate(107.092 82.776)">
+          <g id="Layer-24" data-name="Layer">
+            <path id="path-27_12_" d="M101.8,98h7.89l.905,1.552h-8.148Z" transform="translate(-101.8 -98)"/>
+          </g>
+          <g id="Layer-25" data-name="Layer">
+            <path id="path-27_1_" d="M101.8,98h7.89l.905,1.552h-8.148Z" transform="translate(-101.8 -98)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-11" transform="translate(98.555 82.776)">
+          <g id="Layer-26" data-name="Layer">
+            <path id="path-29_12_" d="M95.2,98h7.89l.647,1.552H95.717Z" transform="translate(-95.2 -98)"/>
+          </g>
+          <g id="Layer-27" data-name="Layer">
+            <path id="path-29_1_" d="M95.2,98h7.89l.647,1.552H95.717Z" transform="translate(-95.2 -98)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-12" transform="translate(90.148 82.776)">
+          <g id="Layer-28" data-name="Layer">
+            <path id="path-31_12_" d="M88.7,98h7.76l.517,1.552H88.959Z" transform="translate(-88.7 -98)"/>
+          </g>
+          <g id="Layer-29" data-name="Layer">
+            <path id="path-31_1_" d="M88.7,98h7.76l.517,1.552H88.959Z" transform="translate(-88.7 -98)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-13" transform="translate(81.612 82.776)">
+          <g id="Layer-30" data-name="Layer">
+            <path id="path-33_12_" d="M82.1,98h7.76l.259,1.552h-7.89Z" transform="translate(-82.1 -98)"/>
+          </g>
+          <g id="Layer-31" data-name="Layer">
+            <path id="path-33_1_" d="M82.1,98h7.76l.259,1.552h-7.89Z" transform="translate(-82.1 -98)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-14" transform="translate(73.076 82.776)">
+          <g id="Layer-32" data-name="Layer">
+            <path id="path-35_12_" d="M75.5,98h7.76l.259,1.552H75.5Z" transform="translate(-75.5 -98)"/>
+          </g>
+          <g id="Layer-33" data-name="Layer">
+            <path id="path-35_1_" d="M75.5,98h7.76l.259,1.552H75.5Z" transform="translate(-75.5 -98)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-15" transform="translate(64.281 82.776)">
+          <g id="Layer-34" data-name="Layer">
+            <path id="path-37_12_" d="M68.959,98h7.76l.129,1.552H68.7Z" transform="translate(-68.7 -98)"/>
+          </g>
+          <g id="Layer-35" data-name="Layer">
+            <path id="path-37_1_" d="M68.959,98h7.76l.129,1.552H68.7Z" transform="translate(-68.7 -98)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-16" transform="translate(55.615 82.776)">
+          <g id="Layer-36" data-name="Layer">
+            <path id="path-39_12_" d="M62.388,98h7.89l-.129,1.552H62Z" transform="translate(-62 -98)"/>
+          </g>
+          <g id="Layer-37" data-name="Layer">
+            <path id="path-39_1_" d="M62.388,98h7.89l-.129,1.552H62Z" transform="translate(-62 -98)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-17" transform="translate(46.95 82.776)">
+          <g id="Layer-38" data-name="Layer">
+            <path id="path-41_12_" d="M55.817,98h7.89l-.517,1.552H55.3Z" transform="translate(-55.3 -98)"/>
+          </g>
+          <g id="Layer-39" data-name="Layer">
+            <path id="path-41_1_" d="M55.817,98h7.89l-.517,1.552H55.3Z" transform="translate(-55.3 -98)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-18" transform="translate(38.155 82.776)">
+          <g id="Layer-40" data-name="Layer">
+            <path id="path-43_12_" d="M49.405,98h7.631l-.388,1.552H48.5Z" transform="translate(-48.5 -98)"/>
+          </g>
+          <g id="Layer-41" data-name="Layer">
+            <path id="path-43_1_" d="M49.405,98h7.631l-.388,1.552H48.5Z" transform="translate(-48.5 -98)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-19" transform="translate(29.618 82.776)">
+          <g id="Layer-42" data-name="Layer">
+            <path id="path-45_12_" d="M42.805,98h7.76l-.647,1.552H41.9Z" transform="translate(-41.9 -98)"/>
+          </g>
+          <g id="Layer-43" data-name="Layer">
+            <path id="path-45_1_" d="M42.805,98h7.76l-.647,1.552H41.9Z" transform="translate(-41.9 -98)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-20" transform="translate(9.959 82.776)">
+          <g id="Layer-44" data-name="Layer">
+            <path id="path-47_12_" d="M28.123,98H46.489l-.905,1.552H26.7Z" transform="translate(-26.7 -98)"/>
+          </g>
+          <g id="Layer-45" data-name="Layer">
+            <path id="path-47_1_" d="M28.123,98H46.489l-.905,1.552H26.7Z" transform="translate(-26.7 -98)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-21" transform="translate(11.511 80.965)">
+          <g id="Layer-46" data-name="Layer">
+            <path id="path-49_12_" d="M29.323,96.6h14.1l-1.164,1.681H27.9Z" transform="translate(-27.9 -96.6)"/>
+          </g>
+          <g id="Layer-47" data-name="Layer">
+            <path id="path-49_1_" d="M29.323,96.6h14.1l-1.164,1.681H27.9Z" transform="translate(-27.9 -96.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-34" transform="translate(13.192 79.284)">
+          <g id="Layer-48" data-name="Layer">
+            <path id="path-51_12_" d="M30.493,95.3h11.64L40.97,96.852H29.2Z" transform="translate(-29.2 -95.3)"/>
+          </g>
+          <g id="Layer-49" data-name="Layer">
+            <path id="path-51_1_" d="M30.493,95.3h11.64L40.97,96.852H29.2Z" transform="translate(-29.2 -95.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-22" transform="translate(26.385 80.965)">
+          <g id="Layer-50" data-name="Layer">
+            <path id="path-53_12_" d="M40.564,96.6h7.631l-.905,1.681H39.4Z" transform="translate(-39.4 -96.6)"/>
+          </g>
+          <g id="Layer-51" data-name="Layer">
+            <path id="path-53_1_" d="M40.564,96.6h7.631l-.905,1.681H39.4Z" transform="translate(-39.4 -96.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-35" transform="translate(25.609 79.284)">
+          <g id="Layer-52" data-name="Layer">
+            <path id="path-55_12_" d="M39.835,95.3h7.5l-.905,1.552H38.8Z" transform="translate(-38.8 -95.3)"/>
+          </g>
+          <g id="Layer-53" data-name="Layer">
+            <path id="path-55_1_" d="M39.835,95.3h7.5l-.905,1.552H38.8Z" transform="translate(-38.8 -95.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-36" transform="translate(33.757 79.284)">
+          <g id="Layer-54" data-name="Layer">
+            <path id="path-57_12_" d="M46.005,95.3h7.5l-.776,1.552H45.1Z" transform="translate(-45.1 -95.3)"/>
+          </g>
+          <g id="Layer-55" data-name="Layer">
+            <path id="path-57_1_" d="M46.005,95.3h7.5l-.776,1.552H45.1Z" transform="translate(-45.1 -95.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-37" transform="translate(42.164 79.284)">
+          <g id="Layer-56" data-name="Layer">
+            <path id="path-59_12_" d="M52.247,95.3h7.5l-.517,1.552H51.6Z" transform="translate(-51.6 -95.3)"/>
+          </g>
+          <g id="Layer-57" data-name="Layer">
+            <path id="path-59_1_" d="M52.247,95.3h7.5l-.517,1.552H51.6Z" transform="translate(-51.6 -95.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-38" transform="translate(50.312 79.284)">
+          <g id="Layer-58" data-name="Layer">
+            <path id="path-61_12_" d="M58.547,95.3h7.372l-.388,1.552H57.9Z" transform="translate(-57.9 -95.3)"/>
+          </g>
+          <g id="Layer-59" data-name="Layer">
+            <path id="path-61_1_" d="M58.547,95.3h7.372l-.388,1.552H57.9Z" transform="translate(-57.9 -95.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-39" transform="translate(58.719 79.284)">
+          <g id="Layer-60" data-name="Layer">
+            <path id="path-63_12_" d="M64.659,95.3h7.372v1.552H64.4Z" transform="translate(-64.4 -95.3)"/>
+          </g>
+          <g id="Layer-61" data-name="Layer">
+            <path id="path-63_1_" d="M64.659,95.3h7.372v1.552H64.4Z" transform="translate(-64.4 -95.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-40" transform="translate(66.997 79.284)">
+          <g id="Layer-62" data-name="Layer">
+            <path id="path-65_12_" d="M70.8,95.3h7.631v1.552H70.8Z" transform="translate(-70.8 -95.3)"/>
+          </g>
+          <g id="Layer-63" data-name="Layer">
+            <path id="path-65_1_" d="M70.8,95.3h7.631v1.552H70.8Z" transform="translate(-70.8 -95.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-41" transform="translate(75.145 79.284)">
+          <g id="Layer-64" data-name="Layer">
+            <path id="path-67_12_" d="M77.1,95.3h7.372l.259,1.552H77.1Z" transform="translate(-77.1 -95.3)"/>
+          </g>
+          <g id="Layer-65" data-name="Layer">
+            <path id="path-67_1_" d="M77.1,95.3h7.372l.259,1.552H77.1Z" transform="translate(-77.1 -95.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-42" transform="translate(83.164 79.284)">
+          <g id="Layer-66" data-name="Layer">
+            <path id="path-69_12_" d="M83.3,95.3h7.5l.388,1.552H83.559Z" transform="translate(-83.3 -95.3)"/>
+          </g>
+          <g id="Layer-67" data-name="Layer">
+            <path id="path-69_1_" d="M83.3,95.3h7.5l.388,1.552H83.559Z" transform="translate(-83.3 -95.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-43" transform="translate(91.312 79.284)">
+          <g id="Layer-68" data-name="Layer">
+            <path id="path-71_12_" d="M89.6,95.3h7.372l.647,1.552H89.988Z" transform="translate(-89.6 -95.3)"/>
+          </g>
+          <g id="Layer-69" data-name="Layer">
+            <path id="path-71_1_" d="M89.6,95.3h7.372l.647,1.552H89.988Z" transform="translate(-89.6 -95.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-44" transform="translate(99.461 79.284)">
+          <g id="Layer-70" data-name="Layer">
+            <path id="path-73_12_" d="M95.9,95.3h7.372l.905,1.552H96.547Z" transform="translate(-95.9 -95.3)"/>
+          </g>
+          <g id="Layer-71" data-name="Layer">
+            <path id="path-73_1_" d="M95.9,95.3h7.372l.905,1.552H96.547Z" transform="translate(-95.9 -95.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-45" transform="translate(107.35 79.284)">
+          <g id="Layer-72" data-name="Layer">
+            <path id="path-75_12_" d="M102,95.3h7.5l1.035,1.552h-7.631Z" transform="translate(-102 -95.3)"/>
+          </g>
+          <g id="Layer-73" data-name="Layer">
+            <path id="path-75_1_" d="M102,95.3h7.5l1.035,1.552h-7.631Z" transform="translate(-102 -95.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-46" transform="translate(115.499 79.284)">
+          <g id="Layer-74" data-name="Layer">
+            <path id="path-77_12_" d="M108.3,95.3h7.631l1.035,1.552h-7.631Z" transform="translate(-108.3 -95.3)"/>
+          </g>
+          <g id="Layer-75" data-name="Layer">
+            <path id="path-77_1_" d="M108.3,95.3h7.631l1.035,1.552h-7.631Z" transform="translate(-108.3 -95.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-47" transform="translate(123.647 79.284)">
+          <g id="Layer-76" data-name="Layer">
+            <path id="path-79_12_" d="M114.6,95.3h7.5l1.293,1.552h-7.89Z" transform="translate(-114.6 -95.3)"/>
+          </g>
+          <g id="Layer-77" data-name="Layer">
+            <path id="path-79_1_" d="M114.6,95.3h7.5l1.293,1.552h-7.89Z" transform="translate(-114.6 -95.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-48" transform="translate(118.344 77.861)">
+          <g id="Layer-78" data-name="Layer">
+            <path id="path-81_12_" d="M110.5,94.2h11.511l1.164,1.293h-11.64Z" transform="translate(-110.5 -94.2)"/>
+          </g>
+          <g id="Layer-79" data-name="Layer">
+            <path id="path-81_1_" d="M110.5,94.2h11.511l1.164,1.293h-11.64Z" transform="translate(-110.5 -94.2)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-49" transform="translate(110.454 77.861)">
+          <g id="Layer-80" data-name="Layer">
+            <path id="path-83_12_" d="M104.4,94.2h7.243l1.035,1.293h-7.243Z" transform="translate(-104.4 -94.2)"/>
+          </g>
+          <g id="Layer-81" data-name="Layer">
+            <path id="path-83_1_" d="M104.4,94.2h7.243l1.035,1.293h-7.243Z" transform="translate(-104.4 -94.2)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-50" transform="translate(102.694 77.861)">
+          <g id="Layer-82" data-name="Layer">
+            <path id="path-85_12_" d="M98.4,94.2h7.114l.905,1.293H99.047Z" transform="translate(-98.4 -94.2)"/>
+          </g>
+          <g id="Layer-83" data-name="Layer">
+            <path id="path-85_1_" d="M98.4,94.2h7.114l.905,1.293H99.047Z" transform="translate(-98.4 -94.2)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-51" transform="translate(94.805 77.861)">
+          <g id="Layer-84" data-name="Layer">
+            <path id="path-87_12_" d="M92.3,94.2h7.114l.776,1.293h-7.5Z" transform="translate(-92.3 -94.2)"/>
+          </g>
+          <g id="Layer-85" data-name="Layer">
+            <path id="path-87_1_" d="M92.3,94.2h7.114l.776,1.293h-7.5Z" transform="translate(-92.3 -94.2)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-52" transform="translate(86.915 77.861)">
+          <g id="Layer-86" data-name="Layer">
+            <path id="path-89_12_" d="M86.2,94.2h7.243l.388,1.293h-7.5Z" transform="translate(-86.2 -94.2)"/>
+          </g>
+          <g id="Layer-87" data-name="Layer">
+            <path id="path-89_1_" d="M86.2,94.2h7.243l.388,1.293h-7.5Z" transform="translate(-86.2 -94.2)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-53" transform="translate(79.025 77.861)">
+          <g id="Layer-88" data-name="Layer">
+            <path id="path-91_12_" d="M80.1,94.2h7.243l.388,1.293H80.1Z" transform="translate(-80.1 -94.2)"/>
+          </g>
+          <g id="Layer-89" data-name="Layer">
+            <path id="path-91_1_" d="M80.1,94.2h7.243l.388,1.293H80.1Z" transform="translate(-80.1 -94.2)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-54" transform="translate(71.006 77.861)">
+          <g id="Layer-90" data-name="Layer">
+            <path id="path-93_12_" d="M73.9,94.2h7.5l-.129,1.293H73.9Z" transform="translate(-73.9 -94.2)"/>
+          </g>
+          <g id="Layer-91" data-name="Layer">
+            <path id="path-93_1_" d="M73.9,94.2h7.5l-.129,1.293H73.9Z" transform="translate(-73.9 -94.2)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-55" transform="translate(62.988 77.861)">
+          <g id="Layer-92" data-name="Layer">
+            <path id="path-95_12_" d="M67.829,94.2H75.2v1.293H67.7Z" transform="translate(-67.7 -94.2)"/>
+          </g>
+          <g id="Layer-93" data-name="Layer">
+            <path id="path-95_1_" d="M67.829,94.2H75.2v1.293H67.7Z" transform="translate(-67.7 -94.2)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-56" transform="translate(54.839 77.861)">
+          <g id="Layer-94" data-name="Layer">
+            <path id="path-97_12_" d="M61.917,94.2H69.16l-.129,1.293H61.4Z" transform="translate(-61.4 -94.2)"/>
+          </g>
+          <g id="Layer-95" data-name="Layer">
+            <path id="path-97_1_" d="M61.917,94.2H69.16l-.129,1.293H61.4Z" transform="translate(-61.4 -94.2)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-57" transform="translate(46.82 77.861)">
+          <g id="Layer-96" data-name="Layer">
+            <path id="path-99_12_" d="M55.847,94.2H62.96l-.388,1.293H55.2Z" transform="translate(-55.2 -94.2)"/>
+          </g>
+          <g id="Layer-97" data-name="Layer">
+            <path id="path-99_1_" d="M55.847,94.2H62.96l-.388,1.293H55.2Z" transform="translate(-55.2 -94.2)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-58" transform="translate(38.931 77.861)">
+          <g id="Layer-98" data-name="Layer">
+            <path id="path-101_12_" d="M49.747,94.2h7.372l-.647,1.293H49.1Z" transform="translate(-49.1 -94.2)"/>
+          </g>
+          <g id="Layer-99" data-name="Layer">
+            <path id="path-101_1_" d="M49.747,94.2h7.372l-.647,1.293H49.1Z" transform="translate(-49.1 -94.2)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-59" transform="translate(30.782 77.861)">
+          <g id="Layer-100" data-name="Layer">
+            <path id="path-103_12_" d="M43.835,94.2h7.114l-.776,1.293H42.8Z" transform="translate(-42.8 -94.2)"/>
+          </g>
+          <g id="Layer-101" data-name="Layer">
+            <path id="path-103_1_" d="M43.835,94.2h7.114l-.776,1.293H42.8Z" transform="translate(-42.8 -94.2)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-60" transform="translate(22.763 77.861)">
+          <g id="Layer-102" data-name="Layer">
+            <path id="path-105_12_" d="M37.635,94.2h7.243l-.905,1.293H36.6Z" transform="translate(-36.6 -94.2)"/>
+          </g>
+          <g id="Layer-103" data-name="Layer">
+            <path id="path-105_1_" d="M37.635,94.2h7.243l-.905,1.293H36.6Z" transform="translate(-36.6 -94.2)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-61" transform="translate(14.615 77.861)">
+          <g id="Layer-104" data-name="Layer">
+            <path id="path-107_12_" d="M31.593,94.2h7.243l-1.164,1.293H30.3Z" transform="translate(-30.3 -94.2)"/>
+          </g>
+          <g id="Layer-105" data-name="Layer">
+            <path id="path-107_1_" d="M31.593,94.2h7.243l-1.164,1.293H30.3Z" transform="translate(-30.3 -94.2)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-62" transform="translate(16.038 77.085)">
+          <g id="Layer-106" data-name="Layer">
+            <path id="path-109_12_" d="M31.917,93.6H42.911l-.388.647H31.4Z" transform="translate(-31.4 -93.6)"/>
+          </g>
+          <g id="Layer-107" data-name="Layer">
+            <path id="path-109_1_" d="M31.917,93.6H42.911l-.388.647H31.4Z" transform="translate(-31.4 -93.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-63" transform="translate(27.937 77.085)">
+          <g id="Layer-108" data-name="Layer">
+            <path id="path-111_12_" d="M40.988,93.6h7.243l-.388.647H40.6Z" transform="translate(-40.6 -93.6)"/>
+          </g>
+          <g id="Layer-109" data-name="Layer">
+            <path id="path-111_1_" d="M40.988,93.6h7.243l-.388.647H40.6Z" transform="translate(-40.6 -93.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-64" transform="translate(35.697 77.085)">
+          <g id="Layer-110" data-name="Layer">
+            <path id="path-113_12_" d="M46.988,93.6h7.243l-.388.647H46.6Z" transform="translate(-46.6 -93.6)"/>
+          </g>
+          <g id="Layer-111" data-name="Layer">
+            <path id="path-113_1_" d="M46.988,93.6h7.243l-.388.647H46.6Z" transform="translate(-46.6 -93.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-65" transform="translate(43.587 77.085)">
+          <g id="Layer-112" data-name="Layer">
+            <path id="path-115_12_" d="M52.959,93.6h7.114l-.129.647H52.7Z" transform="translate(-52.7 -93.6)"/>
+          </g>
+          <g id="Layer-113" data-name="Layer">
+            <path id="path-115_1_" d="M52.959,93.6h7.114l-.129.647H52.7Z" transform="translate(-52.7 -93.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-66" transform="translate(51.347 77.085)">
+          <g id="Layer-114" data-name="Layer">
+            <path id="path-117_12_" d="M58.829,93.6h7.243v.647H58.7Z" transform="translate(-58.7 -93.6)"/>
+          </g>
+          <g id="Layer-115" data-name="Layer">
+            <path id="path-117_1_" d="M58.829,93.6h7.243v.647H58.7Z" transform="translate(-58.7 -93.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-67" transform="translate(59.366 77.085)">
+          <g id="Layer-116" data-name="Layer">
+            <path id="path-119_12_" d="M64.9,93.6h7.372v.647H64.9Z" transform="translate(-64.9 -93.6)"/>
+          </g>
+          <g id="Layer-117" data-name="Layer">
+            <path id="path-119_1_" d="M64.9,93.6h7.372v.647H64.9Z" transform="translate(-64.9 -93.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-68" transform="translate(67.256 77.085)">
+          <g id="Layer-118" data-name="Layer">
+            <path id="path-121_12_" d="M71,93.6h7.372v.647H71Z" transform="translate(-71 -93.6)"/>
+          </g>
+          <g id="Layer-119" data-name="Layer">
+            <path id="path-121_1_" d="M71,93.6h7.372v.647H71Z" transform="translate(-71 -93.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-69" transform="translate(75.016 77.085)">
+          <g id="Layer-120" data-name="Layer">
+            <path id="path-123_12_" d="M77,93.6h7.243v.647H77Z" transform="translate(-77 -93.6)"/>
+          </g>
+          <g id="Layer-121" data-name="Layer">
+            <path id="path-123_1_" d="M77,93.6h7.243v.647H77Z" transform="translate(-77 -93.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-70" transform="translate(82.647 77.085)">
+          <g id="Layer-122" data-name="Layer">
+            <path id="path-125_12_" d="M82.9,93.6h7.372l.129.647H82.9Z" transform="translate(-82.9 -93.6)"/>
+          </g>
+          <g id="Layer-123" data-name="Layer">
+            <path id="path-125_1_" d="M82.9,93.6h7.372l.129.647H82.9Z" transform="translate(-82.9 -93.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-71" transform="translate(90.666 77.085)">
+          <g id="Layer-124" data-name="Layer">
+            <path id="path-127_12_" d="M89.1,93.6h7.243l.259.647H89.229Z" transform="translate(-89.1 -93.6)"/>
+          </g>
+          <g id="Layer-125" data-name="Layer">
+            <path id="path-127_1_" d="M89.1,93.6h7.243l.259.647H89.229Z" transform="translate(-89.1 -93.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-72" transform="translate(98.426 77.085)">
+          <g id="Layer-126" data-name="Layer">
+            <path id="path-129_12_" d="M95.1,93.6h7.243l.259.647H95.359Z" transform="translate(-95.1 -93.6)"/>
+          </g>
+          <g id="Layer-127" data-name="Layer">
+            <path id="path-129_1_" d="M95.1,93.6h7.243l.259.647H95.359Z" transform="translate(-95.1 -93.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-73" transform="translate(106.057 77.085)">
+          <g id="Layer-128" data-name="Layer">
+            <path id="path-131_12_" d="M101,93.6h7.372l.388.647h-7.372Z" transform="translate(-101 -93.6)"/>
+          </g>
+          <g id="Layer-129" data-name="Layer">
+            <path id="path-131_1_" d="M101,93.6h7.372l.388.647h-7.372Z" transform="translate(-101 -93.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-74" transform="translate(113.947 77.085)">
+          <g id="Layer-130" data-name="Layer">
+            <path id="path-133_12_" d="M107.1,93.6h7.243l.388.647h-7.243Z" transform="translate(-107.1 -93.6)"/>
+          </g>
+          <g id="Layer-131" data-name="Layer">
+            <path id="path-133_1_" d="M107.1,93.6h7.243l.388.647h-7.243Z" transform="translate(-107.1 -93.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-75" transform="translate(121.836 77.085)">
+          <g id="Layer-132" data-name="Layer">
+            <path id="path-135_12_" d="M113.2,93.6h7.372l.388.647h-7.372Z" transform="translate(-113.2 -93.6)"/>
+          </g>
+          <g id="Layer-133" data-name="Layer">
+            <path id="path-135_1_" d="M113.2,93.6h7.372l.388.647h-7.372Z" transform="translate(-113.2 -93.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-23" transform="translate(34.792 80.965)">
+          <g id="Layer-134" data-name="Layer">
+            <path id="path-137_12_" d="M46.935,96.6h7.76l-.905,1.681H45.9Z" transform="translate(-45.9 -96.6)"/>
+          </g>
+          <g id="Layer-135" data-name="Layer">
+            <path id="path-137_1_" d="M46.935,96.6h7.76l-.905,1.681H45.9Z" transform="translate(-45.9 -96.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-24" transform="translate(43.328 80.965)">
+          <g id="Layer-136" data-name="Layer">
+            <path id="path-139_12_" d="M53.276,96.6h7.631l-.388,1.681H52.5Z" transform="translate(-52.5 -96.6)"/>
+          </g>
+          <g id="Layer-137" data-name="Layer">
+            <path id="path-139_1_" d="M53.276,96.6h7.631l-.388,1.681H52.5Z" transform="translate(-52.5 -96.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-25" transform="translate(51.864 80.965)">
+          <g id="Layer-138" data-name="Layer">
+            <path id="path-141_12_" d="M59.488,96.6h7.76l-.259,1.681H59.1Z" transform="translate(-59.1 -96.6)"/>
+          </g>
+          <g id="Layer-139" data-name="Layer">
+            <path id="path-141_1_" d="M59.488,96.6h7.76l-.259,1.681H59.1Z" transform="translate(-59.1 -96.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-26" transform="translate(60.401 80.965)">
+          <g id="Layer-140" data-name="Layer">
+            <path id="path-143_12_" d="M65.829,96.6h7.76v1.681H65.7Z" transform="translate(-65.7 -96.6)"/>
+          </g>
+          <g id="Layer-141" data-name="Layer">
+            <path id="path-143_1_" d="M65.829,96.6h7.76v1.681H65.7Z" transform="translate(-65.7 -96.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-27" transform="translate(68.808 80.965)">
+          <g id="Layer-142" data-name="Layer">
+            <path id="path-145_12_" d="M72.2,96.6h7.89v1.681H72.2Z" transform="translate(-72.2 -96.6)"/>
+          </g>
+          <g id="Layer-143" data-name="Layer">
+            <path id="path-145_1_" d="M72.2,96.6h7.89v1.681H72.2Z" transform="translate(-72.2 -96.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-28" transform="translate(77.215 80.965)">
+          <g id="Layer-144" data-name="Layer">
+            <path id="path-147_12_" d="M78.7,96.6h7.631l.259,1.681h-7.76Z" transform="translate(-78.7 -96.6)"/>
+          </g>
+          <g id="Layer-145" data-name="Layer">
+            <path id="path-147_1_" d="M78.7,96.6h7.631l.259,1.681h-7.76Z" transform="translate(-78.7 -96.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-29" transform="translate(85.622 80.965)">
+          <g id="Layer-146" data-name="Layer">
+            <path id="path-149_12_" d="M85.2,96.6h7.631l.517,1.681h-7.89Z" transform="translate(-85.2 -96.6)"/>
+          </g>
+          <g id="Layer-147" data-name="Layer">
+            <path id="path-149_1_" d="M85.2,96.6h7.631l.517,1.681h-7.89Z" transform="translate(-85.2 -96.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-30" transform="translate(93.77 80.965)">
+          <g id="Layer-148" data-name="Layer">
+            <path id="path-151_12_" d="M91.5,96.6h7.631l.905,1.681H92.017Z" transform="translate(-91.5 -96.6)"/>
+          </g>
+          <g id="Layer-149" data-name="Layer">
+            <path id="path-151_1_" d="M91.5,96.6h7.631l.905,1.681H92.017Z" transform="translate(-91.5 -96.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-31" transform="translate(102.177 80.965)">
+          <g id="Layer-150" data-name="Layer">
+            <path id="path-153_12_" d="M98,96.6h7.5l1.035,1.681h-7.89Z" transform="translate(-98 -96.6)"/>
+          </g>
+          <g id="Layer-151" data-name="Layer">
+            <path id="path-153_1_" d="M98,96.6h7.5l1.035,1.681h-7.89Z" transform="translate(-98 -96.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-32" transform="translate(110.325 80.965)">
+          <g id="Layer-152" data-name="Layer">
+            <path id="path-155_12_" d="M104.3,96.6h7.5l1.423,1.681h-7.89Z" transform="translate(-104.3 -96.6)"/>
+          </g>
+          <g id="Layer-153" data-name="Layer">
+            <path id="path-155_1_" d="M104.3,96.6h7.5l1.423,1.681h-7.89Z" transform="translate(-104.3 -96.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-33" transform="translate(118.732 80.965)">
+          <g id="Layer-154" data-name="Layer">
+            <path id="path-157_12_" d="M110.8,96.6h13.839l1.423,1.681H111.835Z" transform="translate(-110.8 -96.6)"/>
+          </g>
+          <g id="Layer-155" data-name="Layer">
+            <path id="path-157_1_" d="M110.8,96.6h13.839l1.423,1.681H111.835Z" transform="translate(-110.8 -96.6)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy" transform="translate(8.278 84.458)">
+          <g id="Layer-156" data-name="Layer">
+            <path id="path-159_12_" d="M26.952,99.3H43.766l-1.293,1.811H25.4Z" transform="translate(-25.4 -99.3)"/>
+          </g>
+          <g id="Layer-157" data-name="Layer">
+            <path id="path-159_1_" d="M26.952,99.3H43.766l-1.293,1.811H25.4Z" transform="translate(-25.4 -99.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-2" transform="translate(26.126 84.458)">
+          <g id="Layer-158" data-name="Layer">
+            <path id="path-161_12_" d="M40.364,99.3h8.019l-1.035,1.811H39.2Z" transform="translate(-39.2 -99.3)"/>
+          </g>
+          <g id="Layer-159" data-name="Layer">
+            <path id="path-161_1_" d="M40.364,99.3h8.019l-1.035,1.811H39.2Z" transform="translate(-39.2 -99.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <g id="Rectangle-8-Copy-3" transform="translate(35.051 84.458)">
+          <g id="Layer-160" data-name="Layer">
+            <path id="path-163_12_" d="M47.135,99.3H57.223l-.647,1.811H46.1Z" transform="translate(-46.1 -99.3)"/>
+          </g>
+          <g id="Layer-161" data-name="Layer">
+            <path id="path-163_1_" d="M47.135,99.3H57.223l-.647,1.811H46.1Z" transform="translate(-46.1 -99.3)" fill="#f0f0f0"/>
+          </g>
+        </g>
+        <path id="Screen-_x28_Use-as-mask_x29_" d="M35.4,38.4H138.353v66.609H35.4Z" transform="translate(-14.189 -32.709)" fill="#2c3e50"/>
+        <path id="Rectangle-6" d="M51.852,51.4H81.6a1.573,1.573,0,0,1,1.552,1.552h0A1.573,1.573,0,0,1,81.6,54.5H51.852A1.573,1.573,0,0,1,50.3,52.952h0A1.573,1.573,0,0,1,51.852,51.4Z" transform="translate(-9.817 -28.895)" fill="#3eabfe"/>
+        <path id="Rectangle-6_1_" d="M79.052,51.4H97.159a1.573,1.573,0,0,1,1.552,1.552h0A1.573,1.573,0,0,1,97.159,54.5H79.052A1.573,1.573,0,0,1,77.5,52.952h0A1.494,1.494,0,0,1,79.052,51.4Z" transform="translate(-1.837 -28.895)" fill="#ebedef"/>
+        <path id="Rectangle-6_2_" d="M51.852,58H66.726a1.573,1.573,0,0,1,1.552,1.552h0A1.573,1.573,0,0,1,66.726,61.1H51.852A1.573,1.573,0,0,1,50.3,59.552h0A1.669,1.669,0,0,1,51.852,58Z" transform="translate(-9.817 -26.959)" fill="#808b96"/>
+        <path id="Rectangle-6_3_" d="M67.555,58H82.429a1.573,1.573,0,0,1,1.552,1.552h0A1.573,1.573,0,0,1,82.429,61.1H67.555A1.573,1.573,0,0,1,66,59.552h0A1.491,1.491,0,0,1,67.555,58Z" transform="translate(-5.214 -26.959)" fill="#0c9"/>
+        <path id="Rectangle-6_4_" d="M51.852,64.6h7.5a1.573,1.573,0,0,1,1.552,1.552h0A1.573,1.573,0,0,1,59.354,67.7h-7.5A1.573,1.573,0,0,1,50.3,66.152h0A1.669,1.669,0,0,1,51.852,64.6Z" transform="translate(-9.817 -25.023)" fill="#3eabfe"/>
+        <path id="Rectangle-6_5_" d="M61.752,64.6H91.5a1.573,1.573,0,0,1,1.552,1.552h0A1.573,1.573,0,0,1,91.5,67.7H61.752A1.573,1.573,0,0,1,60.2,66.152h0A1.573,1.573,0,0,1,61.752,64.6Z" transform="translate(-6.913 -25.023)" fill="#808b96"/>
+        <path id="Rectangle-6_6_" d="M51.852,71.3H73.193a1.573,1.573,0,0,1,1.552,1.552h0A1.573,1.573,0,0,1,73.193,74.4H51.852A1.573,1.573,0,0,1,50.3,72.852h0A1.573,1.573,0,0,1,51.852,71.3Z" transform="translate(-9.817 -23.057)" fill="#ebedef"/>
+        <path id="Rectangle-6_7_" d="M73.252,71.3h28.713a1.573,1.573,0,0,1,1.552,1.552h0a1.573,1.573,0,0,1-1.552,1.552H73.252A1.573,1.573,0,0,1,71.7,72.852h0A1.573,1.573,0,0,1,73.252,71.3Z" transform="translate(-3.539 -23.057)" fill="#0c9"/>
+      </g>
+      <g id="Group-7" transform="translate(104.66 38.271)">
+        <g id="Group">
+          <g id="Oval-3" transform="translate(0.776 60.789)">
+            <path id="Layer-162" data-name="Layer" d="M115.006,113.177c-8.006,0-14.486-.582-14.486-1.293s6.48-1.293,14.486-1.293,14.486.569,14.486,1.293S123.012,113.177,115.006,113.177Z" transform="translate(-100.52 -110.59)"/>
+          </g>
+          <g id="iPhone-Body">
+            <g id="Layer-163" data-name="Layer">
+              <path id="path-167_18_" d="M104.059,63.59h22.117a4.086,4.086,0,0,1,4.139,4.139v54.063a4.086,4.086,0,0,1-4.139,4.139H104.059a4.086,4.086,0,0,1-4.139-4.139V67.729A4.086,4.086,0,0,1,104.059,63.59Z" transform="translate(-99.92 -63.59)"/>
+            </g>
+            <g id="Layer-164" data-name="Layer">
+              <path id="path-167_4_" d="M104.059,63.59h22.117a4.086,4.086,0,0,1,4.139,4.139v54.063a4.086,4.086,0,0,1-4.139,4.139H104.059a4.086,4.086,0,0,1-4.139-4.139V67.729A4.086,4.086,0,0,1,104.059,63.59Z" transform="translate(-99.92 -63.59)" fill="url(#linear-gradient-3)"/>
+            </g>
+            <g id="Layer-165" data-name="Layer">
+              <path id="path-167_16_" d="M104.059,63.59h22.117a4.086,4.086,0,0,1,4.139,4.139v54.063a4.086,4.086,0,0,1-4.139,4.139H104.059a4.086,4.086,0,0,1-4.139-4.139V67.729A4.086,4.086,0,0,1,104.059,63.59Z" transform="translate(-99.92 -63.59)"/>
+            </g>
+          </g>
+          <path id="Home" d="M112.219,111.687a2.2,2.2,0,1,1,2.2-2.2A2.264,2.264,0,0,1,112.219,111.687Zm0-.259a1.94,1.94,0,1,0-1.94-1.94A1.9,1.9,0,0,0,112.219,111.429Z" transform="translate(-96.957 -50.769)" fill-rule="evenodd" fill="url(#linear-gradient-4)"/>
+          <g id="Mask-for-Screen" transform="translate(1.423 6.726)">
+            <g id="Layer-166" data-name="Layer" transform="translate(0.388 0.388)">
+              <path id="path-172" d="M102.1,69.09h25.35a.746.746,0,0,1,.776.776v46.562a.746.746,0,0,1-.776.776H102.1a.745.745,0,0,1-.776-.776V69.866A.835.835,0,0,1,102.1,69.09Z" transform="translate(-101.32 -69.09)" fill="#2c3e50"/>
+            </g>
+            <path id="Layer-167" data-name="Layer" d="M101.8,68.79h26.126a.745.745,0,0,1,.776.776V116.9a.745.745,0,0,1-.776.776H101.8a.746.746,0,0,1-.776-.776V69.566A.835.835,0,0,1,101.8,68.79Z" transform="translate(-101.02 -68.79)" fill="none" stroke="rgba(0,0,0,0.04)" stroke-width="0.6"/>
+          </g>
+        </g>
+      </g>
+      <path id="Rectangle-12" d="M104.523,73.8h19.4a1.435,1.435,0,0,1,1.423,1.423v11.77a1.435,1.435,0,0,1-1.423,1.423h-19.4a1.435,1.435,0,0,1-1.423-1.423V75.223A1.435,1.435,0,0,1,104.523,73.8Z" transform="translate(5.673 -22.324)" fill="url(#linear-gradient-5)"/>
+      <path id="Rectangle-12_1_" d="M104.523,89.4h19.4a1.435,1.435,0,0,1,1.423,1.423v11.77a1.435,1.435,0,0,1-1.423,1.423h-19.4a1.435,1.435,0,0,1-1.423-1.423V90.823A1.435,1.435,0,0,1,104.523,89.4Z" transform="translate(5.673 -17.747)" fill="url(#linear-gradient-6)"/>
+      <g id="app-store" transform="translate(115.643 53.572)">
+        <path id="Shape" d="M116.791,82.534a9.384,9.384,0,0,1-.647,1.164c-.388.647-1.035,1.423-1.681,1.423s-.776-.388-1.681-.388-1.035.388-1.681.388a2.141,2.141,0,0,1-1.681-1.293c-1.164-1.811-1.293-3.751-.517-4.915a2.638,2.638,0,0,1,2.069-1.293c.776,0,1.293.388,1.811.388.647,0,1.035-.388,1.811-.388a2.229,2.229,0,0,1,1.811,1.035A2.211,2.211,0,0,0,116.791,82.534Zm-4.139-4.785a2.258,2.258,0,0,1,.517-1.552,1.971,1.971,0,0,1,1.423-.776,3.169,3.169,0,0,1-.517,1.552A1.99,1.99,0,0,1,112.652,77.748Z" transform="translate(-108.412 -75.42)" fill="#fff" fill-rule="evenodd"/>
+      </g>
+      <g id="android-logo" transform="translate(115.744 73.748)">
+        <path id="Shape_1_" d="M109.137,93.62a.778.778,0,0,0-.517.129.475.475,0,0,0-.129.388v2.716a.778.778,0,0,0,.129.517c.129.129.259.129.517.129a.778.778,0,0,0,.517-.129c.129-.129.129-.259.129-.517V94.137c0-.129,0-.388-.129-.388S109.4,93.62,109.137,93.62Z" transform="translate(-108.49 -90.257)" fill="#fff"/>
+        <path id="Shape_2_" d="M115.352,92.831a2.185,2.185,0,0,1,.388,1.293h-5.95a2.5,2.5,0,0,1,.388-1.293,2.4,2.4,0,0,1,1.035-.905l-.517-.776V91.02h.129l.517.776a4.6,4.6,0,0,1,1.293-.259,3.826,3.826,0,0,1,1.293.259l.517-.776h.129v.129l-.517.776C114.575,92.184,114.834,92.572,115.352,92.831Zm-3.751.259-.129-.129a.127.127,0,0,0-.129-.129l-.129.129c-.129,0-.129,0-.129.129l.129.129c0,.129,0,.129.129.129l.129-.129C111.471,93.089,111.471,93.089,111.6,93.089Zm2.716,0-.129-.129c0-.129,0-.129-.129-.129l-.129.129c-.129,0-.129,0-.129.129l.129.129c0,.129,0,.129.129.129l.129-.129A.127.127,0,0,1,114.317,93.089Z" transform="translate(-108.109 -91.02)" fill="#fff" fill-rule="evenodd"/>
+        <path id="Shape_3_" d="M109.69,97.859a.981.981,0,0,0,.259.517.672.672,0,0,0,.517.259h.517v1.423a.778.778,0,0,0,.129.517c.129.129.259.129.517.129a.778.778,0,0,0,.517-.129c.129-.129.129-.259.129-.517V98.635h.905v1.423a.778.778,0,0,0,.129.517c.129.129.259.129.517.129a.778.778,0,0,0,.517-.129c.129-.129.129-.259.129-.517V98.635h.517a.981.981,0,0,0,.517-.259.672.672,0,0,0,.259-.517V93.72h-5.82v4.139Z" transform="translate(-108.138 -90.228)" fill="#fff"/>
+        <path id="Shape_4_" d="M115.137,93.62a.778.778,0,0,0-.517.129c-.129.129-.129.259-.129.517v2.716a.778.778,0,0,0,.129.517c.129.129.259.129.517.129a.778.778,0,0,0,.517-.129c.129-.129.129-.259.129-.517V94.267a.778.778,0,0,0-.129-.517C115.4,93.749,115.266,93.62,115.137,93.62Z" transform="translate(-106.73 -90.257)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

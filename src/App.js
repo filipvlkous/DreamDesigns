@@ -1,25 +1,45 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect, useState, lazy, Suspense } from "react";
+import { ParallaxProvider } from "react-scroll-parallax";
+import { Switch, Route, useLocation } from "react-router-dom";
+import Loading from "./components/loading.js";
+const Home = lazy(() => import("./components/Home/index"));
+const AboutUs = lazy(() => import("./components/AboutUs/index"));
+const Error = lazy(() => import("./components/Error/index"));
+export const AppContainer = {
+  width: "100%",
+  height: "100%",
+  color: "#fff",
+  backgroundColor: "#56a3f6",
+};
 
-function App() {
+export default function App() {
+  const location = useLocation();
+  const [offsetY, setOffsetY] = useState(true);
+
+  useEffect(() => {
+    window.onscroll = () =>
+      window.pageYOffset === 0 ? setOffsetY(true) : setOffsetY(false);
+
+    return () => (window.onscroll = null);
+  }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ParallaxProvider>
+      <Suspense fallback={<Loading />}>
+        <Switch location={location} key={location.pathname}>
+          <Route exact path="/sluzby">
+            <AboutUs offsetY={offsetY} setOffsetY={setOffsetY} />
+          </Route>
+          <Route exact path="/">
+            <div style={AppContainer}>
+              <Home offsetY={offsetY} setOffsetY={setOffsetY} />
+            </div>
+          </Route>
+          <Route path={"/*"}>
+            <Error />
+          </Route>
+        </Switch>
+      </Suspense>
+    </ParallaxProvider>
   );
 }
-
-export default App;

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="194.007" height="194.007" viewBox="0 0 194.007 194.007">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3e63fe"/>
+      <stop offset="1" stop-color="#3ee2fe"/>
+    </linearGradient>
+  </defs>
+  <path id="Oval-17_3_" d="M97.1,194.107a97,97,0,1,1,97-97A96.915,96.915,0,0,1,97.1,194.107Z" transform="translate(-0.1 -0.1)" fill="url(#linear-gradient)"/>
+  <g id="Combined-Shape_2_" transform="translate(68.808 59.366)">
+    <g id="Layer">
+      <path id="path-3_2_" d="M81.884,87.388a6.246,6.246,0,0,0,0,12.416v.129h1.811V99.8a6.228,6.228,0,0,0,5.174-6.079,6.127,6.127,0,0,0-5.174-6.079V46l28.584,46.3c-10.994,9.183-16.555,19.789-16.555,31.817H83.436v1.423H80.72V124.12H69.855c-.129-11.9-5.562-22.5-16.555-31.817L81.884,46Zm0,13.451v-.905h-.259v.905Z" transform="translate(-53.3 -46)" fill-rule="evenodd"/>
+    </g>
+    <g id="Layer-2" data-name="Layer">
+      <path id="path-3_6_" d="M81.884,87.388a6.246,6.246,0,0,0,0,12.416v.129h1.811V99.8a6.228,6.228,0,0,0,5.174-6.079,6.127,6.127,0,0,0-5.174-6.079V46l28.584,46.3c-10.994,9.183-16.555,19.789-16.555,31.817H83.436v1.423H80.72V124.12H69.855c-.129-11.9-5.562-22.5-16.555-31.817L81.884,46Zm0,13.451v-.905h-.259v.905Z" transform="translate(-53.3 -46)" fill="red" fill-rule="evenodd"/>
+    </g>
+    <path id="path-3_5_" d="M81.884,87.388a6.246,6.246,0,0,0,0,12.416v.129h1.811V99.8a6.228,6.228,0,0,0,5.174-6.079,6.127,6.127,0,0,0-5.174-6.079V46l28.584,46.3c-10.994,9.183-16.555,19.789-16.555,31.817H83.436v1.423H80.72V124.12H69.855c-.129-11.9-5.562-22.5-16.555-31.817L81.884,46Zm0,13.451v-.905h-.259v.905Z" transform="translate(-53.3 -46)" fill="#fff" fill-rule="evenodd"/>
+  </g>
+  <g id="Oval-12" transform="translate(75.792 146.152)" opacity="0.208">
+    <path id="Layer-3" data-name="Layer" d="M80.429,117.756c-12.015,0-21.729-1.035-21.729-2.328s9.713-2.328,21.729-2.328,21.729,1.035,21.729,2.328S92.444,117.756,80.429,117.756Z" transform="translate(-58.7 -113.1)" fill="#21578a"/>
+  </g>
+  <g id="Rectangle-10" transform="translate(82.647 147.057)" opacity="0.396">
+    <path id="Layer-4" data-name="Layer" d="M65.423,113.8h27.29a1.435,1.435,0,0,1,1.423,1.423h0a1.435,1.435,0,0,1-1.423,1.423H65.423A1.435,1.435,0,0,1,64,115.223h0A1.529,1.529,0,0,1,65.423,113.8Z" transform="translate(-64 -113.8)" fill="#2c3e50"/>
+  </g>
+  <path id="Rectangle-10_1_" d="M65.716,106.4h27.29a2.652,2.652,0,0,1,2.716,2.716v5.562a2.652,2.652,0,0,1-2.716,2.716H65.716A2.652,2.652,0,0,1,63,114.678v-5.562A2.652,2.652,0,0,1,65.716,106.4Z" transform="translate(18.353 31.086)" fill="#2c3e50"/>
+  <g id="Group-18" transform="translate(56.766 30.886)">
+    <path id="Line-3" d="M47.88,30.991l70.916-.4" transform="translate(-42.848 -22.04)" fill="none" stroke="#c8c8c8" stroke-linecap="square" stroke-width="1.408" opacity="0.525"/>
+    <g id="Rectangle-15" transform="translate(0 4.708)">
+      <g id="Layer-5" data-name="Layer">
+        <path id="path-8" d="M46.8,27.62l2.716.039a2.653,2.653,0,0,1,2.664,2.768l-.039,2.716a2.653,2.653,0,0,1-2.768,2.664l-2.716-.039A2.653,2.653,0,0,1,43.99,33l.039-2.716A2.734,2.734,0,0,1,46.8,27.62Z" transform="translate(-43.99 -27.62)" fill="#fff"/>
+      </g>
+      <path id="Layer-6" data-name="Layer" d="M47.481,28.33l.905.013a2.653,2.653,0,0,1,2.664,2.768l-.013.905a2.653,2.653,0,0,1-2.768,2.664l-.905-.013A2.653,2.653,0,0,1,44.7,31.9l.013-.905A2.734,2.734,0,0,1,47.481,28.33Z" transform="translate(-43.781 -27.411)" fill="none" stroke="#707070" stroke-width="1.408"/>
+    </g>
+    <g id="Rectangle-15_1_" transform="translate(76.71 4.785)">
+      <g id="Layer-7" data-name="Layer">
+        <path id="path-9_1_" d="M106.107,27.68l2.716.052a2.642,2.642,0,0,1,2.664,2.755l-.052,2.716a2.652,2.652,0,0,1-2.755,2.677l-2.716-.052a2.645,2.645,0,0,1-2.664-2.768l.039-2.716A2.731,2.731,0,0,1,106.107,27.68Z" transform="translate(-103.299 -27.68)" fill="#fff"/>
+      </g>
+      <path id="Layer-8" data-name="Layer" d="M106.791,28.39l.905.026a2.642,2.642,0,0,1,2.664,2.755l-.013.905a2.645,2.645,0,0,1-2.768,2.664l-.905-.013a2.642,2.642,0,0,1-2.664-2.755l.013-.905A2.742,2.742,0,0,1,106.791,28.39Z" transform="translate(-103.091 -27.471)" fill="none" stroke="#707070" stroke-width="1.408"/>
+    </g>
+    <g id="Layer-9" data-name="Layer" transform="translate(32.812 0.039)">
+      <path id="path-11_1_" d="M72.245,25.9a8.277,8.277,0,1,1-.918,11.576A8.207,8.207,0,0,1,72.245,25.9Z" transform="translate(-69.359 -24.01)"/>
+    </g>
+    <g id="Layer-10" data-name="Layer" transform="translate(32.846)">
+      <path id="path-11_4_" d="M72.3,25.894a8.277,8.277,0,1,1-.918,11.576A8.141,8.141,0,0,1,72.3,25.894Z" transform="translate(-69.385 -23.98)" fill="red"/>
+    </g>
+    <path id="path-11_3_" d="M72.245,25.9a8.277,8.277,0,1,1-.918,11.576A8.207,8.207,0,0,1,72.245,25.9Z" transform="translate(-36.547 -23.971)" fill="#fff"/>
+    <path id="Layer-11" data-name="Layer" d="M72.577,26.331A7.5,7.5,0,1,1,71.658,36.9,7.479,7.479,0,0,1,72.577,26.331Z" transform="translate(-36.388 -23.808)" fill="none" stroke="#707070" stroke-width="1.056"/>
+  </g>
+</svg>
